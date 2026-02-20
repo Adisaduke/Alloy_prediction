@@ -15,7 +15,7 @@ The study is based on a dataset of 2,673 alloy systems described by ~30 elementa
 
 The full research manuscript is publicly available at:
 
-DOI: https://doi.org/10.5281/zenodo.XXXXXXX
+DOI: https://doi.org/10.5281/zenodo.18707712
 ## Dataset
 
 The dataset used in this study was obtained from publicly available alloy databases and literature sources (via Kaggle).
@@ -74,13 +74,18 @@ streamlit run app.py
 ## Repository Structure
 
 .
-├── app.py
-├── rf_regression_model.pkl
-├── logistic_classifier.pkl
-├── scaler.pkl
-├── pca_model.pkl
-├── kmeans_model.pkl
 ├── plots/
+├── Alloy.csv
+├── app.py
+├── cls_feature_names.pkl
+├── file.py
+├── file_duplicate.py
+├── kmeans_model.pkl
+├── logistic_classifier.pkl
+├── pca_model.pkl
+├── pca_scaler.pkl
+├── rf_regression_model.pkl
+├── scaler.pkl
 ├── requirements.txt
 └── README.md
 ## License
