@@ -11,11 +11,6 @@ The framework integrates:
 - Feature importance and coefficient analysis for interpretability
 
 The study is based on a dataset of 2,673 alloy systems described by ~30 elemental composition features.
-## 📄 Preprint
-
-The full research manuscript is publicly available at:
-
-DOI: https://doi.org/10.5281/zenodo.18707712
 ## Dataset
 
 The dataset used in this study was obtained from publicly available alloy databases and literature sources (via Kaggle).
